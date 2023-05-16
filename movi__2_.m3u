@@ -2,19 +2,19 @@
 #EXTINF:-1,RTP 1
 #EXTVLCOPT:http-referrer=https://sharecast.ws/
 https://sgoteu2vejkxvm.sharecast.ws/hls/aa1a9f8ac8921543-5ea74606f8393e47bd7f661344389f81479a0abe12cf4d794c27a17ed00cb58c/live.m3u8
+#EXTINF:-1,Tennis
+#EXTVLCOPT:http-referrer=https://ssss36.jokerplayer7.online:8081/secure/latest.php?e=1684250485&st=XrAOYtHgaF3pD4qrOHOPGQ&ch=live17&width=100%&height=360
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/110.0.5481.100 Safari/537.36
+https://ssss36.jokerplayer7.online:8081/live/live17.m3u8?e=1684254485&st=hm1dc0SFRYiFUIZyPHL7-w
+#EXTINF:-1,Stefanini
+#EXTVLCOPT:http-referrer=https://ssss36.jokerplayer7.online:8081/secure/latest.php?e=1684250485&st=XrAOYtHgaF3pD4qrOHOPGQ&ch=live19&width=100%&height=360
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/110.0.5481.100 Safari/537.36
+https://ssss36.jokerplayer7.online:8081/live/live19.m3u8?e=1684254485&st=hm1dc0SFRYiFUIZyPHL7-w
+#EXTINF:-1,Sivasspor-Kassimpasa
+#EXTVLCOPT:http-referrer=https://hocalive.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/110.0.5481.100 Safari/537.36
+https://w16.supercast2.com:999/hls/wsmkmlfeed93.m3u8?md5=81HyTamEVsjDpS0T0MqGbw&expires=1684254542
 #EXTINF:-1,Ajax-Groningen
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/110.0.5481.100 Safari/537.36
-https://ddy1.salamus1.lol/ddy1/premium379/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Sivasspor-Kassimpasa
-#EXTVLCOPT:http-referrer=https://hocalive.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/110.0.5481.100 Safari/537.36
-https://w14.supercast2.com:999/hls/wsmkmlfeed93.m3u8?md5=Aq6RDB8DiFT5VyNaFd2MDg&expires=1684253601
-#EXTINF:-1,Sivasspor-Kassimpasa
-#EXTVLCOPT:http-referrer=https://hocalive.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/110.0.5481.100 Safari/537.36
-https://w14.supercast2.com:999/hls/wsmkmlfeed93.m3u8?md5=Aq6RDB8DiFT5VyNaFd2MDg&expires=1684253601
-#EXTINF:-1,Tennis
-#EXTVLCOPT:http-referrer=https://ssss36.jokerplayer7.online:8081/secure/latest.php?e=1684249551&st=5b1UBfwz7xuaqCmuWEiqQw&ch=live17&width=100%&height=360
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/110.0.5481.100 Safari/537.36
-https://ssss36.jokerplayer7.online:8081/live/live17.m3u8?e=1684253551&st=WNp5Rp3TmhHvE8y3r4b0kw
+https://webudit.salamus1.lol/lb/premium379/index.m3u8
