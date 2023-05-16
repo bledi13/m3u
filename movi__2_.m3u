@@ -7,9 +7,7 @@ https://sgoteu2vejkxvm.sharecast.ws/hls/aa1a9f8ac8921543-5ea74606f8393e47bd7f661
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/110.0.5481.100 Safari/537.36
 https://ecloud.ilive.sbs:8089/hls/I81M7QDwCvOz/index.m3u8?st=Zj9wuK50XhCgtSXB8FdM2A&e=1684263669
 #EXTINF:-1,Slo-NOR
-#EXTVLCOPT:http-referrer=https://wecazt.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/110.0.5481.100 Safari/537.36
-https://ecloud.ilive.sbs:8089/hls/I81M7QDwCvOz/index.m3u8?st=Zj9wuK50XhCgtSXB8FdM2A&e=1684263669
+https://iptv-org.github.io/iptv/index.m3u
 #EXTINF:-1,DEN-AUT
 #EXTVLCOPT:http-referrer=https://ssss43.jokerplayer7.online:8081/secure/latest.php?e=1684255456&st=MyHNxaZ8PkUCXA0e2s6NpA&ch=tsn1&width=100%&height=360
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/110.0.5481.100 Safari/537.36
