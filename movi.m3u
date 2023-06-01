@@ -1,0 +1,8 @@
+#EXTM3U
+#EXTINF:-1,VLCOPTS
+#EXTVLCOPT:http-referrer=https://sharecast.ws/
+https://tvtv.bledi.gq/v/
+#EXTINF:-1,Referer inline
+https://tvtv.bledi.gq/v/|referer=https://ntuplay.xyz/
+#EXTINF:-1,Nothing
+https://tvtv.bledi.gq/v/
